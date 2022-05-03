@@ -1,16 +1,16 @@
-*.pyc
+# *.pyc
+.ipynb_checkpoints
+# /__pycache__
+# /.pytest_cache
+# /.mypy_cache
+# /.python-version
 
-/__pycache__
-/.pytest_cache
-/.mypy_cache
-/.python-version
+# data/webnlg/original
+# data/nyt
+# data/origin
+# log
+# saved_model
+# *.pkl
+# /test_*
 
-data/webnlg/original
-data/nyt
-data/origin
-log
-saved_model
-*.pkl
-/test_*
-
-log.txt
+# log.txt
