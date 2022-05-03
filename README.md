@@ -11,8 +11,7 @@ pytorch 1.8.1
 ## Modify the Data path
 
 This repo initially contain webnlg, you can run the code directly.
-And for NYT dataset you first have to download the dataset and in copy the data to data/nyt/seq2seq_re/*.json.
-And then change the dataset in config.json to NYT
+And for NYT dataset you first have change the dataset in config.json to NYT
 
 ## Run
 ### Train
